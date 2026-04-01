@@ -13,7 +13,7 @@
 
 💡 Computer Science student & Financial Management major
 🚀 Building AI-powered solutions for **Agriculture, Sustainability, and Innovation**
-🌱 Founder mindset | Tech-driven | Impact-focused
+🌱 Founder of Devthugs | Tech-driven | Impact-focused
 
 ---
 
