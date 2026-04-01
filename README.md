@@ -1,16 +1,74 @@
-## Hi there 👋
+# ⚡ Carl El Cedrik T. Rebosura
 
-<!--
-**4LPHACODER/4LPHACODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Futuristic-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AgriTech-Innovator-green?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Startup-Builder-orange?style=for-the-badge&logo=rocket&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+💡 Computer Science student & Financial Management major  
+🚀 Building AI-powered solutions for **Agriculture, Sustainability, and Innovation**  
+🌱 Founder mindset | Tech-driven | Impact-focused  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,arduino,git,linux" />
+</p>
+
+---
+
+## 🚀 Projects
+
+🌱 **AgriSenso**  
+> AI-powered smart agriculture platform  
+
+🌊 **AquaSure**  
+> Intelligent fisheries monitoring system  
+
+🌾 **Cropstock / AgriFund Network**  
+> Connecting farmers and investors through technology  
+
+---
+
+## 🏆 Achievements
+
+<p>
+  🥇 1st Place — Startup Competition (Fishery Category) <br>
+  🥉 3rd Place — Caraga Startup Pitch Fest <br>
+  🥉 3rd Place — Startup & Innovation Congress 2026 <br>
+  🏅 Top 10 — AgriSenso Innovation
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📡 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black?style=for-the-badge&logo=vercel"/></a>
+</p>
+
+---
+
+## ⚡ Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Let's+Build+🚀;Let's+Innovate+💡;Let's+Conquer+More+🔥"/>
+</p>
