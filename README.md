@@ -34,37 +34,25 @@
 
 ## 🚀 Projects
 
-🌱 **AgriSenso**
+🌱 **AgriSenso**  
+> AI-powered smart agriculture platform  
 
-```diff
-+ AI-powered smart agriculture platform
-+ Real-time monitoring and decision support
-```
+🌊 **AquaSure**  
+> Intelligent fisheries monitoring system  
 
-🌊 **AquaSure**
-
-```diff
-+ Intelligent fisheries monitoring system
-+ AI-driven sustainability tracking
-```
-
-🌾 **Cropstock / AgriFund Network**
-
-```diff
-+ Connecting farmers and investors
-+ Enabling sustainable agri-investment
-```
+🌾 **Palai**  
+> Connecting farmers and AI
 
 ---
 
 ## 🏆 Achievements
 
-```diff
-+ 🥇 1st Place — Startup Competition (Fishery Category)
-+ 🥉 3rd Place — Caraga Startup Pitch Fest
-+ 🥉 3rd Place — Startup & Innovation Congress 2026
-+ 🏅 Top 10 — AgriSenso Innovation
-```
+<p>
+  🥇 1st Place — Startup Competition (Fishery Category) <br>
+  🥉 3rd Place — Caraga Startup Pitch Fest <br>
+  🥉 3rd Place — Startup & Innovation Congress 2026 <br>
+  🏅 Top 10 — AgriSenso Innovation
+</p>
 
 ---
 
@@ -90,5 +78,5 @@
 ## 🤖 Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=INITIALIZING...;LET'S+BUILD+🚀;LET'S+INNOVATE+💡;LET'S+CONQUER+MORE+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=INITIALIZING...;LET'S+CREATE+🚀;LET'S+EXPLORE+💡;LET'S+EXPAND+🏆;LET'S+CONQUER+🔥" />
 </p>
