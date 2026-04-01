@@ -1,4 +1,4 @@
-# ⚡ Carl El Cedrik T. Rebosura
+# 🤖 Carl El Cedrik T. Rebosura
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-Futuristic-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,arduino,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,php,laravel,react,flutter,arduino,git,linux" />
 </p>
 
 ---
@@ -32,8 +32,8 @@
 🌊 **AquaSure**  
 > Intelligent fisheries monitoring system  
 
-🌾 **Cropstock / AgriFund Network**  
-> Connecting farmers and investors through technology  
+🌾 **PalAI**  
+> Connecting farmers and AI  
 
 ---
 
@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=4LPHACODER&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4LPHACODER&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 ---
 
-## ⚡ Motto
+## 🤖 Motto
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Let's+Build+🚀;Let's+Innovate+💡;Let's+Conquer+More+🔥"/>
