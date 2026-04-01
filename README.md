@@ -12,7 +12,7 @@
 
 💡 Computer Science student & Financial Management major  
 🚀 Building AI-powered solutions for **Agriculture, Sustainability, and Innovation**  
-🌱 Founder mindset | Tech-driven | Impact-focused  
+🌱 Founder of DEVTHUGS| Tech-driven | Impact-focused  
 
 ---
 
@@ -32,7 +32,7 @@
 🌊 **AquaSure**  
 > Intelligent fisheries monitoring system  
 
-🌾 **PalAI**  
+🌾 **Palai**  
 > Connecting farmers and AI  
 
 ---
