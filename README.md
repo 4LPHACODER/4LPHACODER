@@ -1,4 +1,4 @@
-# 🤖 BL4CK 4NG3L
+# 🤖 CARL EL CEDRIK REBOSURA
 
 <p align="center">
   <img src="https://img.shields.io/badge/MODE-CYBERPUNK-black?style=for-the-badge&logo=ghost&logoColor=red"/>
