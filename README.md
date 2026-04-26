@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-💡 Computer Science student & Financial Management major
+💡 Computer Science student & Data Management major
 🚀 Building AI-powered solutions for **Agriculture, Sustainability, and Innovation**
 🌱 Founder of Devthugs | Tech-driven | Impact-focused
 
