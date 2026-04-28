@@ -1,4 +1,4 @@
-# 🤖 CAEL REBOSURA
+# 🤖 CAEL ZEDRICK REBOSURA
 
 <p align="center">
   <img src="https://img.shields.io/badge/MODE-CYBERPUNK-black?style=for-the-badge&logo=ghost&logoColor=red"/>
