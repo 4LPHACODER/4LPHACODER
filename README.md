@@ -71,12 +71,20 @@
 
 ---
 
-## 📡 Connect With Me
+## 🌐 Professional Links
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=red"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/EMAIL-SEND-darkred?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-DEPLOYING-black?style=for-the-badge&logo=vercel&logoColor=red"/></a>
+  <a href="https://www.linkedin.com/in/carl-el-cedrick-rebosura-16b2a53aa/?skipRedirect=true">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:cecrebosura@nemsu.edu.ph">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://devthugs.free.laravel.cloud/">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 </p>
 
 ---
